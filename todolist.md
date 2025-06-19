@@ -3,29 +3,29 @@
 ## Fase 1: Setup Inicial (Semana 1)
 
 ### 1. Configuración del Proyecto
-- [ ] Crear estructura de carpetas base
-- [ ] Inicializar repositorio Git
-- [ ] Configurar .gitignore y .env.example
+- [x] Crear estructura de carpetas base
+- [x] Inicializar repositorio Git
+- [x] Configurar .gitignore y .env.example
 
 ### 2. Setup Backend
-- [ ] Inicializar proyecto Node.js con TypeScript
-  - [ ] Instalar Express y dependencias base
-  - [ ] Configurar TypeScript y ESLint
-  - [ ] Crear estructura MVC básica
-- [ ] Configurar Docker
-  - [ ] Crear Dockerfile para backend
-  - [ ] Crear docker-compose.yml con PostgreSQL
-  - [ ] Verificar conexión a base de datos
+- [x] Inicializar proyecto Node.js con TypeScript
+  - [x] Instalar Express y dependencias base
+  - [x] Configurar TypeScript y ESLint
+  - [x] Crear estructura MVC básica
+- [x] Configurar Docker
+  - [x] Crear Dockerfile para backend
+  - [x] Crear docker-compose.yml con PostgreSQL
+  - [x] Verificar conexión a base de datos
 
 ### 3. Setup Frontend
-- [ ] Crear proyecto Next.js con TypeScript
-  - [ ] Configurar Tailwind CSS
-  - [ ] Instalar React Flow
-  - [ ] Configurar Zustand
-- [ ] Crear layout base
-  - [ ] Header con navegación
-  - [ ] Footer básico
-  - [ ] Estructura de páginas
+- [x] Crear proyecto Next.js con TypeScript
+  - [x] Configurar Tailwind CSS
+  - [x] Instalar React Flow
+  - [x] Configurar Zustand
+- [x] Crear layout base
+  - [x] Header con navegación
+  - [x] Footer básico
+  - [x] Estructura de páginas
 
 ## Fase 2: Funcionalidades Core (Semanas 2-3)
 
