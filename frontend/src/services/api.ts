@@ -37,3 +37,6 @@ export const templateService = {
     return response.data;
   },
 };
+
+// Export specific functions for easier use
+export const getProjectDetails = projectService.getProject;

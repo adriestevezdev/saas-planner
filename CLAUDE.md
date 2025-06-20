@@ -125,4 +125,4 @@ curl http://localhost:3001/health
 - `backend/src/db/schema.ts` - Database schema
 - `frontend/app/page.tsx` - Main landing page
 - `frontend/components/ProjectForm.tsx` - Core form component
-- `todolist.md` - Development roadmap with task tracking
+- `todolist.md` - Development roadmap with task tracking (check it everytime you end a section so you mark it with an X).

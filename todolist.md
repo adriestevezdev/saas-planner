@@ -65,24 +65,24 @@
 ## Fase 3: Canvas Visual (Semanas 4-5)
 
 ### 7. Implementar Canvas
-- [ ] Configurar React Flow
-  - [ ] Crear nodos customizados
-  - [ ] Definir tipos de conexiones
-  - [ ] Implementar controles de zoom/pan
+- [x] Configurar React Flow
+  - [x] Crear nodos customizados
+  - [x] Definir tipos de conexiones
+  - [x] Implementar controles de zoom/pan
 - [ ] Integrar con datos del proyecto
   - [ ] Mapear arquitectura a nodos
   - [ ] Crear relaciones visuales
   - [ ] Sincronizar cambios
 
 ### 8. Editor de Documentos
-- [ ] Crear vista de editor Markdown
-  - [ ] Syntax highlighting
-  - [ ] Preview en tiempo real
+- [x] Crear vista de editor Markdown
+  - [x] Syntax highlighting
+  - [x] Preview en tiempo real
   - [ ] Toolbar de formato
-- [ ] Sistema de guardado
-  - [ ] Auto-save
+- [x] Sistema de guardado
+  - [x] Auto-save
   - [ ] Historial de versiones
-  - [ ] Exportación a archivos
+  - [x] Exportación a archivos
 
 ## Fase 4: Features Avanzadas (Semanas 6-7)
 
